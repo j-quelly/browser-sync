@@ -1,7 +1,7 @@
 {
-  "name": "browser-sync",
+  "name": "browser-stink",
   "description": "Live CSS Reload & Browser Syncing",
-  "version": "2.26.7",
+  "version": "1.0.0",
   "homepage": "https://browsersync.io/",
   "author": {
     "name": "Shane Osbourne"
@@ -40,7 +40,7 @@
     "chokidar": "^2.0.4",
     "connect": "3.6.6",
     "connect-history-api-fallback": "^1",
-    "dev-ip": "^1.0.1",
+    "dev-ipaddress": "^1.0.0",
     "easy-extender": "^2.3.4",
     "eazy-logger": "^3",
     "etag": "^1.8.1",
